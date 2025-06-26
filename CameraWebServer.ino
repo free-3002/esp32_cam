@@ -36,8 +36,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "RedmiGAK";
-const char *password = "aswin11009";
+const char *ssid = "************";
+const char *password = "***********";
 
 void startCameraServer();
 void setupLedFlash(int pin);
